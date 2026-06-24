@@ -20,7 +20,7 @@ app.use(cors({
     'http://localhost:5174',
     'http://127.0.0.1:3000',
     'http://127.0.0.1:5173',
-    'https://smk-angkasa-absensi.netlify.app',
+    'https://smk-angkasa-absensii.netlify.app',
   ],
   credentials: true
 }))
